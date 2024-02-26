@@ -3,7 +3,7 @@ from holehe.localuseragent import *
 
 
 async def instagram(email, client, out):
-    name = "instagram"
+    name = "ellamcclintockk"
     domain = "instagram.com"
     method = "register"
     frequent_rate_limit=True
